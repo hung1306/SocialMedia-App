@@ -6,7 +6,7 @@ export default () => {
   return (
     <div>
       <p className='footer'>
-        Developed by <a href='/'>Group 16 - DBMS</a>
+        Developed by <a href='/'>Nguyen Phuoc Dac Hung</a>
       </p>
     </div>
   )

@@ -41,7 +41,7 @@ export default (props) => {
   return (
     <header className='header'>
       <div className='container'>
-        <h1 className='logo'><a href='/' className='logoLink'>GR16</a></h1>
+        <h1 className='logo'><a href='/' className='logoLink'>SocialAPP</a></h1>
         {!authUser.isAuth ? (
           ''
         ) : (

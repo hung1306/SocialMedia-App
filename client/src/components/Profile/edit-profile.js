@@ -3,7 +3,7 @@ import { v1 as genId } from 'uuid'
 import Axios from 'axios'
 
 import { Card, CardBody, CardHeader, CardTitle } from '../../assets/css/styled-css'
-import Loader from '../../assets/images/loader.svg'
+// import Loader from '../../assets/images/loader.svg'
 import Avatar from '../../assets/images/avatar.jpg'
 import { BASE_URL } from '../../config'
 

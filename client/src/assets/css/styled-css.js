@@ -91,8 +91,8 @@ export const Btn = styled.button`
   ${(props) =>
     props.blue &&
     css`
-      background: #4168b4;
-      border: 1px solid #4168b4;
+      background: #234a99a7;
+      border: 1px solid #234a99a7;
       color: white;
       &:hover {
         background: #365899;
